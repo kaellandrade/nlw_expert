@@ -106,3 +106,6 @@ Add a vote to specific poll.
   "votes": 2
 }
 ```
+---
+<iframe src="./.github/certificate.pdf" width="100%" height="600px">
+</iframe>
