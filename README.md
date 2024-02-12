@@ -107,5 +107,5 @@ Add a vote to specific poll.
 }
 ```
 ---
-<iframe src="./.github/certificate.pdf" width="100%" height="600px">
+<iframe src="https://github.com/kaellandrade/nlw_expert/blob/main/.github/certificate.pdf" width="100%" height="600px">
 </iframe>
